@@ -21,10 +21,10 @@ Snapdeal is India's leading pure-play value Ecommerce platform. Founded in 2010 
 
 -   Login and Signin
 -   Landing Page
--   Side bar for different categorise
--   Product page for different categorise
+-   Side bar for different categories
+-   Product page for different categories
 -   Detailed product preview page
--   Sort functions for Higher to Lower price,Lower to Higher price and Search bar for finding the product by it's name.
+-   Sort functions for Higher to Lower price,Lower to Higher price.
 -   Filters according to price range, brands, etc.
 -   Add to cart option for buying products and checking by giving address and payment details.
 
@@ -43,9 +43,9 @@ Snapdeal is India's leading pure-play value Ecommerce platform. Founded in 2010 
 
 ## Challenges
 
-As this was my second project, I faced a lot of challenges. Collecting data API’s was challenging for me. I do not find any such API related to my project, I create my own API and deploy it on a live server. I get stuck at many points of the responsive features of the website. But I am able to tackle all these problems in one week.
+As this was my second project, I faced a lot of challenges. Collecting data API’s was challenging for me. I do not find any such API related to my project, I create my own API and deploy it on a live server. But I am able to tackle all these problems in one week.
 
-As I still in the learning phase, the journey of building this website was very nice. I realized that I could’ve achieved even more precision in building the website, but time was running out because I take up a challenge to completer this project in a week.
+As I still in the learning phase, the journey of building this website was very nice. I realized that I could’ve achieved even more precision in building the website, but time was running out because I take up a challenge to complete this project in a week.
 
 The feeling of completing the project was very satisfying. Hard work pays off. So, in all this is a great and wonderful experience for me.
 
